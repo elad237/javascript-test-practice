@@ -1,0 +1,22 @@
+{
+  "name": "javascript-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elad237/javascript-test-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elad237/javascript-test-practice.git/issues"
+  },
+  "homepage": "https://github.com/elad237/javascript-test-practice.git#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
